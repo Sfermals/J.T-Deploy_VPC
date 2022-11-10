@@ -21,7 +21,7 @@ pipeline {
                  script{
                         dir("terraform")
                         {
-                            git "https://github.com/Sfermals/jenkin-terra-aws-1.git"
+                            git "https://github.com/Sfermals/J.T-Deploy_VPC.git"
                         }
                     }
                 }
